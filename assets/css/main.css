@@ -4687,3 +4687,16 @@ input, select, textarea {
 		}
 
 	}
+
+
+.video-container {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.video-container video {
+    width: 100%;
+    height: auto;
+    display: block;
+}
