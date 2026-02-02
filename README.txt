@@ -1,1 +1,1 @@
-[Visual Recognition Projects](https://leaferd6712.github.io/visual-recognition-projects/)
+NOT READY YET: https://leaferd6712.github.io/visual-recognition-projects
