@@ -1,3 +1,1 @@
-THE WEB IS NOT FUNCTIONING YET
-
-Here is my Project Website: (Enter Web Link)
+[Visual Recognition Projects](https://leaferd6712.github.io/visual-recognition-projects/)
